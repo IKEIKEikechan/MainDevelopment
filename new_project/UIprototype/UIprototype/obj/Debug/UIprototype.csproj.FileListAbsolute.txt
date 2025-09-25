@@ -1,0 +1,15 @@
+C:\Users\IKEIK\Documents\Projects\new_project\UIprototype\UIprototype\bin\Debug\UIprototype.exe.config
+C:\Users\IKEIK\Documents\Projects\new_project\UIprototype\UIprototype\bin\Debug\UIprototype.exe
+C:\Users\IKEIK\Documents\Projects\new_project\UIprototype\UIprototype\bin\Debug\UIprototype.pdb
+C:\Users\IKEIK\Documents\Projects\new_project\UIprototype\UIprototype\obj\Debug\UIprototype.csproj.AssemblyReference.cache
+C:\Users\IKEIK\Documents\Projects\new_project\UIprototype\UIprototype\obj\Debug\MainWindow.g.cs
+C:\Users\IKEIK\Documents\Projects\new_project\UIprototype\UIprototype\obj\Debug\App.g.cs
+C:\Users\IKEIK\Documents\Projects\new_project\UIprototype\UIprototype\obj\Debug\UIprototype_MarkupCompile.cache
+C:\Users\IKEIK\Documents\Projects\new_project\UIprototype\UIprototype\obj\Debug\UIprototype_MarkupCompile.lref
+C:\Users\IKEIK\Documents\Projects\new_project\UIprototype\UIprototype\obj\Debug\MainWindow.baml
+C:\Users\IKEIK\Documents\Projects\new_project\UIprototype\UIprototype\obj\Debug\UIprototype.g.resources
+C:\Users\IKEIK\Documents\Projects\new_project\UIprototype\UIprototype\obj\Debug\UIprototype.Properties.Resources.resources
+C:\Users\IKEIK\Documents\Projects\new_project\UIprototype\UIprototype\obj\Debug\UIprototype.csproj.GenerateResource.cache
+C:\Users\IKEIK\Documents\Projects\new_project\UIprototype\UIprototype\obj\Debug\UIprototype.csproj.CoreCompileInputs.cache
+C:\Users\IKEIK\Documents\Projects\new_project\UIprototype\UIprototype\obj\Debug\UIprototype.exe
+C:\Users\IKEIK\Documents\Projects\new_project\UIprototype\UIprototype\obj\Debug\UIprototype.pdb
