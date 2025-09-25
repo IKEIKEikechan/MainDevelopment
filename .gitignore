@@ -1,0 +1,11 @@
+*.vsidx
+*.suo
+new_project/UIprototype/.vs/UIprototype/v17/DocumentLayout.json
+new_project/UIprototype/UIprototype/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+*.cache
+*.lref
+new_project/UIprototype/UIprototype/Properties/AssemblyInfo.cs
+new_project/UIprototype/UIprototype/Properties/Resources.Designer.cs
+new_project/UIprototype/UIprototype/Properties/Resources.resx
+new_project/UIprototype/UIprototype/Properties/Settings.Designer.cs
+new_project/UIprototype/UIprototype/Properties/Settings.settings
