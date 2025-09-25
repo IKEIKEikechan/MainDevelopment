@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IKEIK\\Documents\\Projects\\MainDevelopment\\MainDevelopmentUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D77A7A7E-A4DD-406E-84F6-A53B1CFDA24F}|MainDevelopmentUI\\MainDevelopmentUI.csproj|c:\\users\\ikeik\\documents\\projects\\maindevelopment\\maindevelopmentui\\maindevelopmentui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D77A7A7E-A4DD-406E-84F6-A53B1CFDA24F}|MainDevelopmentUI\\MainDevelopmentUI.csproj|solutionrelative:maindevelopmentui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77A7A7E-A4DD-406E-84F6-A53B1CFDA24F}|MainDevelopmentUI\\MainDevelopmentUI.csproj|c:\\users\\ikeik\\documents\\projects\\maindevelopment\\maindevelopmentui\\maindevelopmentui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77A7A7E-A4DD-406E-84F6-A53B1CFDA24F}|MainDevelopmentUI\\MainDevelopmentUI.csproj|solutionrelative:maindevelopmentui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\IKEIK\\Documents\\Projects\\MainDevelopment\\MainDevelopmentUI\\MainDevelopmentUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainDevelopmentUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\IKEIK\\Documents\\Projects\\MainDevelopment\\MainDevelopmentUI\\MainDevelopmentUI\\MainWindow.xaml",
+              "RelativeToolTip": "MainDevelopmentUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-25T12:29:22.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\IKEIK\\Documents\\Projects\\MainDevelopment\\MainDevelopmentUI\\MainDevelopmentUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainDevelopmentUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\IKEIK\\Documents\\Projects\\MainDevelopment\\MainDevelopmentUI\\MainDevelopmentUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainDevelopmentUI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:29:22.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
